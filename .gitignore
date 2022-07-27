@@ -41,3 +41,4 @@ ApiExample/obj/Debug/net6.0/staticwebassets.build.json
 ApiExample/obj/project.assets.json
 ApiExample/obj/project.nuget.cache
 ApiExample/obj/staticwebassets.pack.sentinel
+.vs/
